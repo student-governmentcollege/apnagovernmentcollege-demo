@@ -1,4 +1,4 @@
-# apnagovernmentcollege-demo
+# governmentcollege-demo
 This is  my first repository
 <br>
 Author-CHANDRASHEKHAR
